@@ -7,7 +7,7 @@
 ---
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Us)](https://x.com/NiJinjie)
 ![Static Badge](https://img.shields.io/badge/AGI_Evaluation-dodgerblue)
-
+![Static Badge](https://img.shields.io/badge/ICLR_2025_Spotlight-cyan)
 
 <br>
 <p align="center" width="100%">
@@ -19,6 +19,8 @@
 <br>
 
 # ⚡ News
+
+[2025-02-11] MixEval-X is accepted to ICLR 2025 as a Spotlight!
 
 [2024-12-10] [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main) now supports running model evaluations on MixEval-X. You can run MixEval-X MMU tasks for your own models with one command [here](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/lmms_eval/tasks/mix_evals)! (feel free to use your own code if you think it's easier)
 
